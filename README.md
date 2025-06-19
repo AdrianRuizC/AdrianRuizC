@@ -12,6 +12,7 @@ edad: 19
 signo: Leo ♌
 rol: CEO & Founder @ SCORPIONS
 stack: Fullstack Developer | AI & Automation | Cloud Enthusiast
+Estudios: Universidad Tecnologica del Perú (UTP)
 universidad: Universidad Privada Antenor Orrego (UPAO)
 ```
 
