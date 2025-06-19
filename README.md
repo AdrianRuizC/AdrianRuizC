@@ -1,7 +1,5 @@
 # 👨‍💻 Adrian Alejandro Ruiz Carreño
 
-![Banner](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/static/ADRIAN_ALEJANDRO_RUIZ_CARREÑO.jpeg)
-
 ---
 
 ## 🚀 Sobre mí
