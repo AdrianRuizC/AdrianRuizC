@@ -24,7 +24,6 @@ universidad: Universidad Privada Antenor Orrego (UPAO)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 ![FAISS](https://img.shields.io/badge/-FAISS-333?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
@@ -36,7 +35,7 @@ universidad: Universidad Privada Antenor Orrego (UPAO)
 
 - **IA CONTABLE UPAO**  
   Asistente inteligente para contabilidad y finanzas, con procesamiento de documentos, chat GPT-4o, análisis financiero y automatización de asientos contables.  
-  [🔗 Ver proyecto](https://github.com/TobiramaSama18/IA_CONTABLE)
+  [🔗 Ver proyecto](https://github.com/Sistemas-AJ/IA_CONTABLE_UPAO)
 
 - **SCORPIONS-DEV-INC**  
   Soluciones tecnológicas a medida, automatización de procesos y desarrollo de software empresarial.  
