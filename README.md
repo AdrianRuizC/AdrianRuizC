@@ -33,7 +33,7 @@ universidad: Universidad Privada Antenor Orrego (UPAO)
 
 - **IA CONTABLE UPAO**  
   Asistente inteligente para contabilidad y finanzas, con procesamiento de documentos, chat GPT-4o, análisis financiero y automatización de asientos contables.  
-  [🔗 Ver proyecto](https://github.com/Sistemas-AJ/IA_CONTABLE_UPAO)
+  [🔗 Ver proyecto](https://iacontable.systempiura.com/)
 
 - **SCORPIONS-DEV-INC**  
   Soluciones tecnológicas a medida, automatización de procesos y desarrollo de software empresarial.  
