@@ -16,6 +16,16 @@ universidad: Universidad Privada Antenor Orrego (UPAO)
 
 ---
 
+## 🚀 Desarrollo de Aplicaciones Móviles
+
+![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-333?style=flat&logo=dart)
+![SQLite](https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite)
+
+Desarrollo aplicaciones móviles multiplataforma usando **Flutter** y **SQLite** para gestión de datos local, con enfoque en soluciones empresariales como CRM, ventas y administración de usuarios.
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -26,8 +36,6 @@ universidad: Universidad Privada Antenor Orrego (UPAO)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=githubactions)
-
----
 
 ## 🧠 Proyectos Destacados
 
