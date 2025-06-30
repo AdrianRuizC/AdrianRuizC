@@ -46,15 +46,18 @@ Desarrollo aplicaciones móviles multiplataforma usando **Flutter** y **SQLite**
 - **SCORPIONS-DEV-INC**  
   Soluciones tecnológicas a medida, automatización de procesos y desarrollo de software empresarial.  
   [🔗 GitHub Scorpions](https://github.com/SCORPIONS-DEV-INC)
-
+  
+- **SCORPIONS-DEV**  
+  Soluciones tecnológicas a medida, automatización de procesos y desarrollo de software empresarial.  
+  [🌐 Pagina de Scorpions](https://scorpions-v1-0-f.vercel.app/)
 ---
 
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrianalejandroruiz/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:adrianalejandroruiz19@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/TobiramaSama18)
-[![Sitio Web](https://img.shields.io/badge/-Sitio%20Web-333?style=flat&logo=googlechrome)](https://upao.edu.pe)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/AdrianRuizC)
+[![Sitio Web](https://img.shields.io/badge/-Sitio%20Web-333?style=flat&logo=googlechrome)](https://scorpions-v1-0-f.vercel.app/)
 
 ---
 
