@@ -6,7 +6,7 @@
 
 **Full-Stack Developer | AI & Automation Enthusiast | Mobile Developer**
 
-*CEO & Founder en [@SCORPIONS](https://github.com/SCORPIONS-DEV-INC) | Estudiante en la Universidad Tecnológica del Perú (UTP) 🎓*
+*CEO & Founder en [@SCORPIONS](https://github.com/SCORPIONS-DEV-INC) and [@NetSurex](*) | Estudiante en la Universidad Tecnológica del Perú (UTP) 🎓*
 
 </div>
 
