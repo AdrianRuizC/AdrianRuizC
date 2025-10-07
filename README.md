@@ -1,18 +1,25 @@
-# 👨‍💻 Adrian Alejandro Ruiz Carreño
 
+https://capsule-render.vercel.app/api?type=waving&color=0:d4fc90,100:96e6a1&height=205&section=header&text=%C2%A1Hola%20soy%20%F0%9F%A4%96%F0%9F%92%BB%20Adrian%20A.%20Ruiz%20Carre%C3%B1o!&fontSize=40&fontAlign=center&fontColor=0F5559
 ---
 
-## 🚀 Sobre mí
+## 👾 Sobre mí
 
-```yaml
-nombre: Adrian Alejandro Ruiz Carreño
-edad: 19
-signo: Leo ♌
-rol: CEO & Founder @ SCORPIONS
-stack: Fullstack Developer | AI & Automation | Cloud Enthusiast
-Estudios: Universidad Tecnologica del Perú (UTP)
-universidad: Universidad Privada Antenor Orrego (UPAO)
-```
+<table>
+<tr>
+<td>
+🙋‍♂️ Soy *@AdrianRuizC, pero podés decirme **Sandro**, la mente detrás de @SCORPIONS.
+💻 Apasionado por transformar ideas en realidad y convertir café en código.
+🚀 Construyendo el universo digital como Fullstack Developer.
+🤖 Explorando el futuro con IA & Automatización.
+☁️ Un Cloud Enthusiast con la cabeza en las nubes y los pies en el código.
+🎓 Forjando mi camino en la Universidad Tecnológica del Perú (UTP).
+♌ Liderando con la fuerza y pasión de un Leo. ¡Siempre listo para crear! 🫡
+</td>
+<td>
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2021/06/Tony-stark-homecoming-plan-would-have-caused-spiderman-identity-twist-Spiderman-far-from-home.jpg" width="130" alt="Spiderman and airoman" style="border-radius: 12px; box-shadow: 0 0 12px #999;">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,6 +59,12 @@ Desarrollo aplicaciones móviles multiplataforma usando **Flutter** y **SQLite**
   [🌐 Pagina de Scorpions](https://scorpions-v1-0-f.vercel.app/)
 ---
 
+## 🤝 ¿Colaboramos?
+
+Estoy buscando participar en proyectos donde pueda *aportar valor, **aprender en equipo* y *divertirme programando*.
+
+📬 Contactame:  
+📧 *adrianalejandroruiz13@gmail.com*
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adrianalejandroruiz/)
@@ -69,6 +82,25 @@ Desarrollo aplicaciones móviles multiplataforma usando **Flutter** y **SQLite**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,openai,docker,linux,github" height="32" />
+
+---
+
+## 🧠 Fun facts
+
+- 🧃 Me encanta programar con música de *Rock*  
+- 🎮 Me inspiro con juegos de todo tipo
+- 🤓 Me encanta explicar lo que aprendo por eso contactate con migo asesorias wuai
+
+---
+
+## 📈 Stats (🤖👽💻)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alister29827&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alister29827&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+---
 <!---
 TobiramaSama18/TobiramaSama18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
